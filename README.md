@@ -1,13 +1,13 @@
 # Обо мне
-В данный момент я изучаю Python и Django
-Ищу работу в сфере программирования
+- В данный момент я изучаю Python и Django
+- Ищу работу в сфере программирования
 
 # Технологии и фреймворки
-HTML
-CSS
-JavaScript
-jQuery
-Python
-Django
-MySQL
-PostgreSQL
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- Python
+- Django
+- MySQL
+- PostgreSQL
